@@ -1,0 +1,13 @@
+/home/wdg/Projetos/SpellChecker/bin/Debug/netcoreapp3.0/SpellChecker
+/home/wdg/Projetos/SpellChecker/bin/Debug/netcoreapp3.0/SpellChecker.deps.json
+/home/wdg/Projetos/SpellChecker/bin/Debug/netcoreapp3.0/SpellChecker.runtimeconfig.json
+/home/wdg/Projetos/SpellChecker/bin/Debug/netcoreapp3.0/SpellChecker.runtimeconfig.dev.json
+/home/wdg/Projetos/SpellChecker/bin/Debug/netcoreapp3.0/SpellChecker.dll
+/home/wdg/Projetos/SpellChecker/bin/Debug/netcoreapp3.0/SpellChecker.pdb
+/home/wdg/Projetos/SpellChecker/bin/Debug/netcoreapp3.0/HtmlAgilityPack.NetCore.dll
+/home/wdg/Projetos/SpellChecker/obj/Debug/netcoreapp3.0/SpellChecker.csprojAssemblyReference.cache
+/home/wdg/Projetos/SpellChecker/obj/Debug/netcoreapp3.0/SpellChecker.AssemblyInfoInputs.cache
+/home/wdg/Projetos/SpellChecker/obj/Debug/netcoreapp3.0/SpellChecker.AssemblyInfo.cs
+/home/wdg/Projetos/SpellChecker/obj/Debug/netcoreapp3.0/SpellChecker.csproj.CopyComplete
+/home/wdg/Projetos/SpellChecker/obj/Debug/netcoreapp3.0/SpellChecker.dll
+/home/wdg/Projetos/SpellChecker/obj/Debug/netcoreapp3.0/SpellChecker.pdb
